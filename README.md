@@ -5,7 +5,7 @@
 
 ### :desktop_computer:  About me:
 <div>
-I'm on the website development team as a manual and auto <b>QA Engineer</b>. We're working on the websites of the private clinic, as well as on the corporate constructor of landings. Also we develop the media about health and evidence-based medicine "Cuprum.media"
+I'm on the website development team as a <b>Fullstack QA Engineer</b>. We're working on the websites of the private clinic, as well as on the corporate constructor of landings. Also we develop the media about health and evidence-based medicine "Cuprum.media"
 </div>
 
 
