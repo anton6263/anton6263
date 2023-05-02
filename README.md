@@ -15,7 +15,7 @@ I'm on the website development team as a <b>Fullstack QA Engineer</b>. We're wor
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" alt="java" width="40" height="40"/>&nbsp
-  <a href="https://jdi.epam.com/"><img src="https://avatars.githubusercontent.com/u/33630149?s=200&v=4" title="JDI framework" alt="JDI framework" width="40" height="40"/>&nbsp</a>
+  <a href="https://jdi.epam.com/ target="_blank""><img src="https://avatars.githubusercontent.com/u/33630149?s=200&v=4" title="JDI framework" alt="JDI framework" width="40" height="40"/>&nbsp</a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="selenium" alt="selenium" width="40"
   height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp
