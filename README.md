@@ -33,7 +33,7 @@ I'm part of the mobile application development team, specializing as an <b>Auto 
 
 | :floppy_disk:	 My code |    &nbsp;&nbsp;&nbsp;  :page_with_curl:    My testing documentation |
 | --- | --- |
-| [Course Software-Testing](https://github.com/anton6263/Automation-Testing-Course-SoftwareTesting) | NN |
+| [Course Software-Testing](https://github.com/anton6263/Automation-Testing-Course-SoftwareTesting) | None |
 
 
 ---
