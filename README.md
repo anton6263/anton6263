@@ -31,7 +31,7 @@ I'm on the website development team as a <b>Fullstack QA Engineer</b>. We're wor
 
 | :floppy_disk:	 My code |    &nbsp;&nbsp;&nbsp;  :page_with_curl:    My testing documentation |
 | --- | --- |
-| NN | NN |
+| [Course Software-Testing](https://github.com/anton6263/Automation-Testing-Course-SoftwareTesting) | NN |
 
 
 ---
