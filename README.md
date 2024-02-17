@@ -5,7 +5,7 @@
 
 ### :desktop_computer:  About me:
 <div>
-I'm on the website development team as a <b>Fullstack QA Engineer</b>. We're working on the websites of the private clinic, as well as on the corporate constructor of landings. Also we develop the media about health and evidence-based medicine "Cuprum.media"
+I'm part of the mobile application development team, specializing as an <b>Auto QA Engineer</b>. Our focus lies in developing application for a private clinic, primarily centered around online appointment booking and health tracking functionalities. Additionally, we engage in some work related to the clinic's website for online appointment scheduling.
 </div>
 
 
@@ -16,6 +16,8 @@ I'm on the website development team as a <b>Fullstack QA Engineer</b>. We're wor
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" alt="java" width="40" height="40"/>&nbsp
   <a href="https://jdi.epam.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/33630149?s=200&v=4" title="JDI framework" alt="JDI framework" width="40" height="40"/>&nbsp</a>
+  <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" title="rest assured" alt="rest assured" width="40"
+  height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="selenium" alt="selenium" width="40"
   height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp
@@ -23,7 +25,7 @@ I'm on the website development team as a <b>Fullstack QA Engineer</b>. We're wor
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
   <img src="https://www.svgrepo.com/show/306821/swagger.svg" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp
-  <img src="https://qameta.io/static/svg/testopslogo.b6d13ab1.svg" title="Allure TestOps" alt="Allure TestOps" width="70" height="40"/>&nbsp
+  <img src="https://qameta.io/assets/testopslogo.2d423d46.svg" title="Allure TestOps" alt="Allure TestOps" width="70" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp
 </div>
 
